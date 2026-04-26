@@ -2,6 +2,8 @@
 
 A maze game written in x86 Assembly (NASM), running in real mode DOS. Guide a bouncing star (`*`) through obstacles to reach the goal in the top-left corner.
 
+DEMO Gameplay Video : https://github.com/user-attachments/assets/3c513b4d-fc67-477f-bd29-f0577559d224
+
 ---
 
 ## Gameplay
